@@ -1,0 +1,10 @@
+deskew==0.10.32
+opencv-python==4.5.3.56
+opencv-python-headless==4.5.3.56
+img2pdf==0.4.1
+pdf2img==0.1.2
+pytesseract-0.3.8
+google-cloud-documentai
+google-cloud-storage
+xlwt
+pandas
